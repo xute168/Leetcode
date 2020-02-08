@@ -9,3 +9,14 @@ D:\Users\mxu@aocit.com\source\repos\RESTful API\Leecode\obj\Debug\netcoreapp2.1\
 D:\Users\mxu@aocit.com\source\repos\RESTful API\Leecode\obj\Debug\netcoreapp2.1\Leecode.dll
 D:\Users\mxu@aocit.com\source\repos\RESTful API\Leecode\obj\Debug\netcoreapp2.1\Leecode.pdb
 D:\Users\mxu@aocit.com\source\repos\RESTful API\Leecode\obj\Debug\netcoreapp2.1\Leecode.csprojAssemblyReference.cache
+D:\Users\mxu@aocit.com\source\repos\Leetcode\Leecode\bin\Debug\netcoreapp2.1\Leecode.deps.json
+D:\Users\mxu@aocit.com\source\repos\Leetcode\Leecode\bin\Debug\netcoreapp2.1\Leecode.runtimeconfig.json
+D:\Users\mxu@aocit.com\source\repos\Leetcode\Leecode\bin\Debug\netcoreapp2.1\Leecode.runtimeconfig.dev.json
+D:\Users\mxu@aocit.com\source\repos\Leetcode\Leecode\bin\Debug\netcoreapp2.1\Leecode.dll
+D:\Users\mxu@aocit.com\source\repos\Leetcode\Leecode\bin\Debug\netcoreapp2.1\Leecode.pdb
+D:\Users\mxu@aocit.com\source\repos\Leetcode\Leecode\obj\Debug\netcoreapp2.1\Leecode.csprojAssemblyReference.cache
+D:\Users\mxu@aocit.com\source\repos\Leetcode\Leecode\obj\Debug\netcoreapp2.1\Leecode.csproj.CoreCompileInputs.cache
+D:\Users\mxu@aocit.com\source\repos\Leetcode\Leecode\obj\Debug\netcoreapp2.1\Leecode.AssemblyInfoInputs.cache
+D:\Users\mxu@aocit.com\source\repos\Leetcode\Leecode\obj\Debug\netcoreapp2.1\Leecode.AssemblyInfo.cs
+D:\Users\mxu@aocit.com\source\repos\Leetcode\Leecode\obj\Debug\netcoreapp2.1\Leecode.dll
+D:\Users\mxu@aocit.com\source\repos\Leetcode\Leecode\obj\Debug\netcoreapp2.1\Leecode.pdb

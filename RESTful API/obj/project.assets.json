@@ -11553,11 +11553,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\mxu@aocit.com\\source\\repos\\RESTful API\\RESTful API\\RESTful API.csproj",
+      "projectUniqueName": "D:\\Users\\mxu@aocit.com\\source\\repos\\Leetcode\\RESTful API\\RESTful API.csproj",
       "projectName": "RESTful API",
-      "projectPath": "D:\\Users\\mxu@aocit.com\\source\\repos\\RESTful API\\RESTful API\\RESTful API.csproj",
+      "projectPath": "D:\\Users\\mxu@aocit.com\\source\\repos\\Leetcode\\RESTful API\\RESTful API.csproj",
       "packagesPath": "D:\\Users\\mxu@aocit.com\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\mxu@aocit.com\\source\\repos\\RESTful API\\RESTful API\\obj\\",
+      "outputPath": "D:\\Users\\mxu@aocit.com\\source\\repos\\Leetcode\\RESTful API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

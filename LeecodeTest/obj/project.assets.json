@@ -5727,11 +5727,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\mxu@aocit.com\\source\\repos\\RESTful API\\LeecodeTest\\LeecodeTest.csproj",
+      "projectUniqueName": "D:\\Users\\mxu@aocit.com\\source\\repos\\Leetcode\\LeecodeTest\\LeecodeTest.csproj",
       "projectName": "LeecodeTest",
-      "projectPath": "D:\\Users\\mxu@aocit.com\\source\\repos\\RESTful API\\LeecodeTest\\LeecodeTest.csproj",
+      "projectPath": "D:\\Users\\mxu@aocit.com\\source\\repos\\Leetcode\\LeecodeTest\\LeecodeTest.csproj",
       "packagesPath": "D:\\Users\\mxu@aocit.com\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\mxu@aocit.com\\source\\repos\\RESTful API\\LeecodeTest\\obj\\",
+      "outputPath": "D:\\Users\\mxu@aocit.com\\source\\repos\\Leetcode\\LeecodeTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5750,8 +5750,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\Users\\mxu@aocit.com\\source\\repos\\RESTful API\\Leecode\\Leecode.csproj": {
-              "projectPath": "D:\\Users\\mxu@aocit.com\\source\\repos\\RESTful API\\Leecode\\Leecode.csproj"
+            "D:\\Users\\mxu@aocit.com\\source\\repos\\Leetcode\\Leecode\\Leecode.csproj": {
+              "projectPath": "D:\\Users\\mxu@aocit.com\\source\\repos\\Leetcode\\Leecode\\Leecode.csproj"
             }
           }
         }

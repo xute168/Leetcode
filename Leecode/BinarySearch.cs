@@ -40,5 +40,64 @@ namespace Leecode
             }
             return left;
         }
+
+        public IList<int> FindClosestElements(int[] arr, int k, int x)
+        {
+            int first = 0;
+            int last = arr.Count() - 1;
+            int m = 0;
+            while (first < last)
+            {
+                m = first + (last - first) / 2;
+                if (arr[m] > x)
+                {
+                    last = m;
+                }
+                else if (arr[m] == x)
+                {
+                    first = m;
+                    break;
+                }
+                else
+                {
+                    first = m + 1;
+                }
+            }
+            IList<int> ret = new List<int>();
+
+            int f = Math.Max(0, first - k );
+            int l = Math.Min(arr.Count() - 1, first + k - 1);
+            while(l-f+1>k)
+            {
+                if (Math.Abs(arr[f] - x) > Math.Abs(arr[l] - x))
+                {
+                    f++;
+                }
+                else l--;
+            }
+            return arr.Skip(f).Take(k).ToArray();
+        }
+
+        public bool IsPerfectSquare(int num)
+        {
+            int first = 1;
+            int last = num;
+            float fnum = num;
+            int m = 0;
+            if (num == 0) return false;
+            while (first < last)
+            {
+                m = first + (last - first) / 2;
+                if ( m > fnum / m)
+                {
+                    last = m;
+                }
+                else if ( m == fnum / m) return true;
+                else first = m + 1;
+            }
+            if (first * first == fnum) return true;
+            
+            return false;
+        }
     }
 }

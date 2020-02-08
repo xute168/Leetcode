@@ -15,3 +15,20 @@ D:\Users\mxu@aocit.com\source\repos\RESTful API\LeecodeTest\obj\Debug\netcoreapp
 D:\Users\mxu@aocit.com\source\repos\RESTful API\LeecodeTest\obj\Debug\netcoreapp2.1\LeecodeTest.csproj.CopyComplete
 D:\Users\mxu@aocit.com\source\repos\RESTful API\LeecodeTest\obj\Debug\netcoreapp2.1\LeecodeTest.dll
 D:\Users\mxu@aocit.com\source\repos\RESTful API\LeecodeTest\obj\Debug\netcoreapp2.1\LeecodeTest.pdb
+D:\Users\mxu@aocit.com\source\repos\Leetcode\LeecodeTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Users\mxu@aocit.com\source\repos\Leetcode\LeecodeTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Users\mxu@aocit.com\source\repos\Leetcode\LeecodeTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Users\mxu@aocit.com\source\repos\Leetcode\LeecodeTest\bin\Debug\netcoreapp2.1\LeecodeTest.deps.json
+D:\Users\mxu@aocit.com\source\repos\Leetcode\LeecodeTest\bin\Debug\netcoreapp2.1\LeecodeTest.runtimeconfig.json
+D:\Users\mxu@aocit.com\source\repos\Leetcode\LeecodeTest\bin\Debug\netcoreapp2.1\LeecodeTest.runtimeconfig.dev.json
+D:\Users\mxu@aocit.com\source\repos\Leetcode\LeecodeTest\bin\Debug\netcoreapp2.1\LeecodeTest.dll
+D:\Users\mxu@aocit.com\source\repos\Leetcode\LeecodeTest\bin\Debug\netcoreapp2.1\LeecodeTest.pdb
+D:\Users\mxu@aocit.com\source\repos\Leetcode\LeecodeTest\bin\Debug\netcoreapp2.1\Leecode.dll
+D:\Users\mxu@aocit.com\source\repos\Leetcode\LeecodeTest\bin\Debug\netcoreapp2.1\Leecode.pdb
+D:\Users\mxu@aocit.com\source\repos\Leetcode\LeecodeTest\obj\Debug\netcoreapp2.1\LeecodeTest.csprojAssemblyReference.cache
+D:\Users\mxu@aocit.com\source\repos\Leetcode\LeecodeTest\obj\Debug\netcoreapp2.1\LeecodeTest.csproj.CoreCompileInputs.cache
+D:\Users\mxu@aocit.com\source\repos\Leetcode\LeecodeTest\obj\Debug\netcoreapp2.1\LeecodeTest.AssemblyInfoInputs.cache
+D:\Users\mxu@aocit.com\source\repos\Leetcode\LeecodeTest\obj\Debug\netcoreapp2.1\LeecodeTest.AssemblyInfo.cs
+D:\Users\mxu@aocit.com\source\repos\Leetcode\LeecodeTest\obj\Debug\netcoreapp2.1\LeecodeTest.csproj.CopyComplete
+D:\Users\mxu@aocit.com\source\repos\Leetcode\LeecodeTest\obj\Debug\netcoreapp2.1\LeecodeTest.dll
+D:\Users\mxu@aocit.com\source\repos\Leetcode\LeecodeTest\obj\Debug\netcoreapp2.1\LeecodeTest.pdb

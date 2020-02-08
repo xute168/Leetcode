@@ -688,11 +688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\mxu@aocit.com\\source\\repos\\RESTful API\\Leecode\\Leecode.csproj",
+      "projectUniqueName": "D:\\Users\\mxu@aocit.com\\source\\repos\\Leetcode\\Leecode\\Leecode.csproj",
       "projectName": "Leecode",
-      "projectPath": "D:\\Users\\mxu@aocit.com\\source\\repos\\RESTful API\\Leecode\\Leecode.csproj",
+      "projectPath": "D:\\Users\\mxu@aocit.com\\source\\repos\\Leetcode\\Leecode\\Leecode.csproj",
       "packagesPath": "D:\\Users\\mxu@aocit.com\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\mxu@aocit.com\\source\\repos\\RESTful API\\Leecode\\obj\\",
+      "outputPath": "D:\\Users\\mxu@aocit.com\\source\\repos\\Leetcode\\Leecode\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
