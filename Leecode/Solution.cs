@@ -1,12 +1,36 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 using System.Linq;
 
 namespace Leecode
 {
     public class Solution
     {
+        public int[] SmallerNumbersThanCurrent(int[] nums)
+        {
+            int[] ret = new int[nums.Count()];
+            Dictionary<int, int> dic = new Dictionary<int, int>();
+            var sortNums = (int[])nums.Clone();
+            Array.Sort(sortNums);
+            for (int i = 0; i < sortNums.Count(); i++)
+            {
+                if(i==0)
+                {
+                    dic[sortNums[i]] = i;
+                }
+                else if (sortNums[i] > sortNums[i - 1])
+                {                    
+                    dic[sortNums[i]] = i;
+                }
+            }
+            for (int i = 0; i < nums.Count(); i++)
+            {
+                ret[i] = dic[nums[i]];
+            }
+
+            return ret;
+        }
+
         public int[] TwoSum(int[] nums, int target)
         {
             //Dictionary is used to store data
@@ -730,6 +754,69 @@ namespace Leecode
 
             return ret;
 
+        }
+
+
+        public IList<int> LuckyNumbers(int[][] matrix)
+        {
+            List<int> ret = new List<int>();
+            var a = matrix.ToList();
+            var c = a.Select(e => e.Min()).ToList();
+            
+            for(int i=0;i<c.Count();i++)
+            {
+                var ind = Array.IndexOf(matrix[i],c[i]);
+                
+                var b = a.Max(e => e[ind]);
+                if (b == c[i])
+                    ret.Add(b);
+            }
+
+            //ret.RemoveAt(0);
+            
+            return ret;
+        }
+    }
+
+    public class CustomStack
+    {
+
+        public List<int> st = new List<int>();
+        public int _maxSize;
+        public CustomStack(int maxSize)
+        {
+            _maxSize = maxSize;
+        }
+
+        public void Push(int x)
+        {
+            if (st.Count() < _maxSize)
+            {
+                st.Add(x);
+            }
+
+        }
+
+        public int Pop()
+        {
+            var ret = -1;
+            if (st.Count() > 0)
+            {
+                ret = st[st.Count() - 1];
+                st.RemoveAt(st.Count() - 1);
+            }
+
+            return ret;
+
+        }
+
+        public void Increment(int k, int val)
+        {
+
+            for (int i = 0; i < Math.Min(k, st.Count()); i++)
+            {
+                st[i] += val;
+            }
         }
     }
 }

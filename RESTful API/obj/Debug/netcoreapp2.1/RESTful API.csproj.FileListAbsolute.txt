@@ -12,3 +12,19 @@ D:\Users\mxu@aocit.com\source\repos\RESTful API\RESTful API\obj\Debug\netcoreapp
 D:\Users\mxu@aocit.com\source\repos\RESTful API\RESTful API\obj\Debug\netcoreapp2.1\RESTful API.RazorTargetAssemblyInfo.cache
 D:\Users\mxu@aocit.com\source\repos\RESTful API\RESTful API\obj\Debug\netcoreapp2.1\RESTful API.dll
 D:\Users\mxu@aocit.com\source\repos\RESTful API\RESTful API\obj\Debug\netcoreapp2.1\RESTful API.pdb
+C:\Users\xute_\OneDrive\桌面\Leetcode\RESTful API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\xute_\OneDrive\桌面\Leetcode\RESTful API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\xute_\OneDrive\桌面\Leetcode\RESTful API\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\xute_\OneDrive\桌面\Leetcode\RESTful API\bin\Debug\netcoreapp2.1\RESTful API.deps.json
+C:\Users\xute_\OneDrive\桌面\Leetcode\RESTful API\bin\Debug\netcoreapp2.1\RESTful API.runtimeconfig.json
+C:\Users\xute_\OneDrive\桌面\Leetcode\RESTful API\bin\Debug\netcoreapp2.1\RESTful API.runtimeconfig.dev.json
+C:\Users\xute_\OneDrive\桌面\Leetcode\RESTful API\bin\Debug\netcoreapp2.1\RESTful API.dll
+C:\Users\xute_\OneDrive\桌面\Leetcode\RESTful API\bin\Debug\netcoreapp2.1\RESTful API.pdb
+C:\Users\xute_\OneDrive\桌面\Leetcode\RESTful API\obj\Debug\netcoreapp2.1\RESTful API.csprojAssemblyReference.cache
+C:\Users\xute_\OneDrive\桌面\Leetcode\RESTful API\obj\Debug\netcoreapp2.1\RESTful API.RazorAssemblyInfo.cache
+C:\Users\xute_\OneDrive\桌面\Leetcode\RESTful API\obj\Debug\netcoreapp2.1\RESTful API.RazorAssemblyInfo.cs
+C:\Users\xute_\OneDrive\桌面\Leetcode\RESTful API\obj\Debug\netcoreapp2.1\RESTful API.AssemblyInfoInputs.cache
+C:\Users\xute_\OneDrive\桌面\Leetcode\RESTful API\obj\Debug\netcoreapp2.1\RESTful API.AssemblyInfo.cs
+C:\Users\xute_\OneDrive\桌面\Leetcode\RESTful API\obj\Debug\netcoreapp2.1\RESTful API.RazorTargetAssemblyInfo.cache
+C:\Users\xute_\OneDrive\桌面\Leetcode\RESTful API\obj\Debug\netcoreapp2.1\RESTful API.dll
+C:\Users\xute_\OneDrive\桌面\Leetcode\RESTful API\obj\Debug\netcoreapp2.1\RESTful API.pdb

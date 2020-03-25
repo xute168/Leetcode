@@ -8,7 +8,7 @@ namespace Leecode
     {
         static void Main(string[] args)
         {
-            Solution a = new Solution();
+
 
             //var i = a.TwoSum(new int[] { -3, 4, 3, 90 }, 0);
             //foreach(int j in i) Console.WriteLine(j);
@@ -57,18 +57,44 @@ namespace Leecode
             //var i = a.SortArrayByParity(new int[] { 19, 17, 20,20,20,20 });
             //foreach (var j in i) Console.WriteLine(j);
 
+            //var i = a.SmallerNumbersThanCurrent(new int[] { 8, 1, 2, 2, 3 });
+            //foreach (var j in i) Console.WriteLine(j);
+
             //Console.WriteLine(a.MySqrt(2147395599)); 
             //Console.WriteLine(GetValue()); 
             //Console.WriteLine(a.FindMin(new int[] { 3, 4, 5, 1, 2 }));
             //Console.WriteLine(a.FindMin(new int[] { 4, 5, 6, 7, 0, 1, 2 }));
 
             //var i = a.KWeakestRows(new int[][] { new int[]{ 1, 1, 0, 0, 0 }, new int[] { 1, 1, 1, 1, 0 }, new int[] { 1, 0, 0, 0, 0 }, new int[] { 1, 1, 0, 0, 0 }, new int[] { 1, 1, 1, 1, 1 } },3);
+            //foreach (var j in i) Console.WriteLine(j);//var i = a.KWeakestRows(new int[][] { new int[]{ 1, 1, 0, 0, 0 }, new int[] { 1, 1, 1, 1, 0 }, new int[] { 1, 0, 0, 0, 0 }, new int[] { 1, 1, 0, 0, 0 }, new int[] { 1, 1, 1, 1, 1 } },3);
             //foreach (var j in i) Console.WriteLine(j);
 
             //var i = a.KWeakestRows(new int[][] { new int[]{ 1, 0, 0, 0 }, new int[] { 1, 1, 1, 1 }, new int[] { 1, 0, 0, 0 }, new int[] { 1, 0, 0, 0 } },2);
             //foreach (var j in i) Console.WriteLine(j);
 
-            var b = new BinarySearch();
+            //ListNode lnd = new ListNode(new List<int> { 3, 2, 0, -4 });
+            //lnd.CircleListNode(1);
+            //var ind = lnd.head;
+            //Console.WriteLine(new TwoPoints().HasCycle(ind));
+            //for (int i = 0; i<5; i++)
+            //{
+            //    if(ind!=null)
+            //    {
+            //        Console.WriteLine(ind.val);
+            //        ind = ind.next;
+            //    }
+
+            //}
+
+            Sorting a = new Sorting();
+            Solution solution = new Solution();
+            //Console.WriteLine(a.FindKthLargest(new int[] { 3, 2, 1, 5, 6, 4 }, 2));
+            //foreach (var i in a.TopKFrequent(new int[] { 1, 1, 1, 2, 2, 3 }, 2))
+            //    Console.WriteLine(i);
+            //Console.WriteLine(a.FrequencySort("tree"));
+            solution.LuckyNumbers(new int[][] { new int[] {3, 7, 8},
+                new int[] {9, 11, 13},
+                new int[] {15, 16, 17} });
 
         }
 
