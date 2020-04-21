@@ -7,10 +7,25 @@
   "targets": {
     ".NETCoreApp,Version=v2.1": {
       "Leecode/1.0.0": {
+        "dependencies": {
+          "Microsoft.CodeAnalysis.FxCopAnalyzers": "3.0.0-beta3.final"
+        },
         "runtime": {
           "Leecode.dll": {}
         }
-      }
+      },
+      "Microsoft.CodeAnalysis.FxCopAnalyzers/3.0.0-beta3.final": {
+        "dependencies": {
+          "Microsoft.CodeAnalysis.VersionCheckAnalyzer": "3.0.0-beta3.final",
+          "Microsoft.CodeQuality.Analyzers": "3.0.0-beta3.final",
+          "Microsoft.NetCore.Analyzers": "3.0.0-beta3.final",
+          "Microsoft.NetFramework.Analyzers": "3.0.0-beta3.final"
+        }
+      },
+      "Microsoft.CodeAnalysis.VersionCheckAnalyzer/3.0.0-beta3.final": {},
+      "Microsoft.CodeQuality.Analyzers/3.0.0-beta3.final": {},
+      "Microsoft.NetCore.Analyzers/3.0.0-beta3.final": {},
+      "Microsoft.NetFramework.Analyzers/3.0.0-beta3.final": {}
     }
   },
   "libraries": {
@@ -18,6 +33,41 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Microsoft.CodeAnalysis.FxCopAnalyzers/3.0.0-beta3.final": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-i/GUnco+v3fWk0bMCsIRTu9FSHlUpKBgsFVY+4SZE6ciSu27MJ28djuGEdXRi9+xnTKH7YwFbPCq/sUTqrKiEw==",
+      "path": "microsoft.codeanalysis.fxcopanalyzers/3.0.0-beta3.final",
+      "hashPath": "microsoft.codeanalysis.fxcopanalyzers.3.0.0-beta3.final.nupkg.sha512"
+    },
+    "Microsoft.CodeAnalysis.VersionCheckAnalyzer/3.0.0-beta3.final": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JZWHUZGW4gNS4AJJ1TU6gyaBmWB3nzCDPzKoUmL/XmE1510MjJ3EXj4nxUgeOGAJX5DnuUKfMIkTuxReuwMHXg==",
+      "path": "microsoft.codeanalysis.versioncheckanalyzer/3.0.0-beta3.final",
+      "hashPath": "microsoft.codeanalysis.versioncheckanalyzer.3.0.0-beta3.final.nupkg.sha512"
+    },
+    "Microsoft.CodeQuality.Analyzers/3.0.0-beta3.final": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PYuwb1tJ47T/qlA2M8rxlF+3R275AbleOrT2a/8fw0XmqG4DR/6DQOqXg6PW1lYwlUFk7YSO2+cKqdz1eDFA1w==",
+      "path": "microsoft.codequality.analyzers/3.0.0-beta3.final",
+      "hashPath": "microsoft.codequality.analyzers.3.0.0-beta3.final.nupkg.sha512"
+    },
+    "Microsoft.NetCore.Analyzers/3.0.0-beta3.final": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8bBXxGdXHVzNJ/LBeTUdzDzXDZCqHPJ9WZoZ5GwgW3E6X9tmDXpBQ+dODfm50emQfkxd8no0OgSLZtt8zMU5Kg==",
+      "path": "microsoft.netcore.analyzers/3.0.0-beta3.final",
+      "hashPath": "microsoft.netcore.analyzers.3.0.0-beta3.final.nupkg.sha512"
+    },
+    "Microsoft.NetFramework.Analyzers/3.0.0-beta3.final": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ii6e2TaUiIqjbrD9jpwV+hgqHTkShGS5h5GmlN9/mAsApgwTrTQd2IIEbS9oQ5XbcNx3bDCfQi7D3RI1ZS4oQg==",
+      "path": "microsoft.netframework.analyzers/3.0.0-beta3.final",
+      "hashPath": "microsoft.netframework.analyzers.3.0.0-beta3.final.nupkg.sha512"
     }
   }
 }

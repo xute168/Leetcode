@@ -141,5 +141,11 @@ namespace Leecode
             }
             return new string(ret);
         }
+
+        public void SortColors(int[] nums)
+        {
+            Array.Sort(nums);
+            
+        }
     }
 }

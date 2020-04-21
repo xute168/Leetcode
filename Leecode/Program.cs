@@ -88,13 +88,16 @@ namespace Leecode
 
             Sorting a = new Sorting();
             Solution solution = new Solution();
+            Greedy greedy = new Greedy();
             //Console.WriteLine(a.FindKthLargest(new int[] { 3, 2, 1, 5, 6, 4 }, 2));
             //foreach (var i in a.TopKFrequent(new int[] { 1, 1, 1, 2, 2, 3 }, 2))
             //    Console.WriteLine(i);
             //Console.WriteLine(a.FrequencySort("tree"));
-            solution.LuckyNumbers(new int[][] { new int[] {3, 7, 8},
-                new int[] {9, 11, 13},
-                new int[] {15, 16, 17} });
+            greedy.EraseOverlapIntervals(new int[][] { new int[] { 1,3 },new int[] {1,2},
+                new int[] {2,3},
+                new int[] {3,4}
+                
+            });
 
         }
 
